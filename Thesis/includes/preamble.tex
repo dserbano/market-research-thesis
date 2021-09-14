@@ -1,0 +1,142 @@
+\documentclass[a4paper, BCOR=12mm, DIV=10,headsepline=true,index=totoc,bibliography=totoc,fontsize=11pt, oneside]{scrbook}
+
+
+\usepackage{typearea}
+\usepackage{acronym}
+\usepackage{graphicx}
+\usepackage[breaklinks=true,bookmarks=true,colorlinks=true,urlcolor=red,linkcolor=blue]{hyperref}
+\usepackage{tikz}
+\usepackage[numbers,square]{natbib}
+
+%Extra math symbols
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage[inline]{enumitem}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{verbatim}
+\usepackage{algorithmic}
+\usepackage{algorithm}
+\usepackage{listings,xcolor}
+\usepackage{pdfpages}
+
+%Set up bits for title page
+\makeatletter
+\renewcommand{\title}[1]{\gdef\@title{#1}}
+\renewcommand{\author}[1]{\gdef\@author{#1}}
+\renewcommand{\date}[1]{\gdef\@date{#1}}
+\newcommand{\address}[1]{\gdef\@address{#1}}
+\newcommand{\degreetext}[1]{\gdef\@degreetext{#1}}
+\newcommand{\keywords}[1]{\subparagraph{Keywords:} {#1}}
+\renewcommand{\maketitle}{
+      \thispagestyle{empty}
+      \begin{singlespace}
+      \begin{center}
+      {\titlefont \Huge \MakeUppercase{\@title}\par}
+      \vfill
+      {\huge\MakeUppercase{\@author}}\\
+      \vskip 1em
+      {\Large{\@degreetext}}
+      \vskip 1em
+      {\Large{\@date}}
+      \vfill
+      {\Large\MakeUppercase{\@address}}
+      \vskip 1em
+      \copyright \@author, \@date
+      \vskip 1em
+      \@author\ asserts his moral right to be identified as the author of this thesis.
+      \vskip 1em
+      This copy of the thesis has been supplied on condition that anyone who consults it is understood to recognise that its copyright rests with its author and that no quotation from the thesis and no information derived from it may be published without appropriate permission or acknowledgement.
+      \end{center}
+      \end{singlespace}
+      \cleardoubleemptypage 
+}
+
+\newenvironment{sistema}% 
+{\left\lbrace\begin{array}{@{}l@{}}}% 
+	{\end{array}\right.} 
+
+\lstset{
+	string=[s]{"}{"},
+	stringstyle=\color{blue},
+	comment=[l]{:},
+	commentstyle=\color{black},
+}
+
+\addtolength{\textheight}{2mm}
+
+\address{Aston University}
+\degreetext{Master Degree in Smart Telecoms and Sensing Networks}
+\date{August 2021}
+
+%Table of contents
+\usepackage{tocloft}
+\renewcommand{\cftchapfont}{\bfseries}
+\setcounter{tocdepth}{2}
+
+%Set up indentation for table of contents
+\cftsetindents{section}{1.0em }{2.3em}
+\cftsetindents{subsection}{2.0em}{3.2em}
+\cftsetindents{subsubsection}{3.0em}{4.1em}
+
+%Nice font package
+\usepackage{libertine}
+\usepackage[T1]{fontenc}
+
+%Line spacing
+\usepackage{setspace}
+\onehalfspacing
+\setlength{\parskip}{0pt}
+
+%Nice looking Captions
+\usepackage[footnotesize, bf]{caption}
+\setlength{\captionmargin}{2em}
+\setlength{\abovecaptionskip}{3pt}
+\usepackage[font=footnotesize, hangindent=12pt]{subfig}
+\setcapindent{0pt}
+
+% %Size of figure
+\newlength{\figwidth}
+\setlength{\figwidth}{0.6\textwidth}
+
+%Frontmatter environments
+\newenvironment{summary}{\thispagestyle{plain}\addcontentsline{toc}{chapter}{Summary}
+{\titlefont\centering\Large
+\MakeUppercase\@address\\
+\@title\\
+\@author\\
+\@degreetext\\
+\@date\\}
+\section*{Summary}
+}
+{
+\cleardoublepage}
+
+\renewenvironment{dedication}{\thispagestyle{plain}
+\ \vfill
+\centering
+
+}{\vspace{0.3\textheight}\vfill\cleardoublepage}
+\newenvironment{acknowledgements}{\thispagestyle{plain}\section*{Acknowledgments}\addcontentsline{toc}{chapter}{Acknowledgments}}{\cleardoublepage}
+
+%tikz libraries for figures
+\usetikzlibrary{shapes}
+\usetikzlibrary{shapes.geometric}
+\usetikzlibrary{shapes.symbols}
+\usetikzlibrary{positioning}
+\usetikzlibrary{fit}
+\usetikzlibrary{automata}
+\usetikzlibrary{patterns}
+\usetikzlibrary{chains}
+\usetikzlibrary{calc}
+\usetikzlibrary{decorations}
+\usetikzlibrary{decorations.markings}
+\usetikzlibrary{scopes}
+\usetikzlibrary{shadings}
+\setlength{\parindent}{0pt}
+
+%Convenience functions
+
+\renewcommand{\bibname}{References}
+
+

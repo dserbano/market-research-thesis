@@ -1,0 +1,15 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Literature Review.aux
+The style file: ieeetr.bst
+Database file #1: includes/bibliography.bib
+Warning--I'm ignoring digitaltrasformationsmes's extra "note" field
+--line 150 of file includes/bibliography.bib
+Warning--empty journal in feasibility
+Name 3 in "Ayuba, Bello and Aina, Olalekan and Kazeem," has a comma at the end for entry marketingresearch
+while executing---line 969 of file ieeetr.bst
+Warning--empty journal in marketingresearch
+Warning--empty journal in django
+Warning--empty year in django
+Warning--empty booktitle in mapreduce
+Warning--empty journal in docker
+Warning--empty year in docker
+(There was 1 error message)

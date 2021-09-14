@@ -1,0 +1,128 @@
+\documentclass[a4paper]{report}
+\usepackage[Lenny]{fncychap}
+\usepackage{fancyhdr}
+\usepackage{ifthen}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{float}
+\usepackage{chapterbib}
+\usepackage{graphicx}
+\usepackage[a4paper,top=2.5cm,bottom=2.5cm,left=2.5cm,right=2.5cm]{geometry}
+\usepackage[colorlinks=true, urlcolor=black, citecolor=black, linkcolor=black]{hyperref}
+\usepackage{booktabs}
+\usepackage{fancyhdr}
+\usepackage{totpages}
+\usepackage{tabularx, array}
+\usepackage{dcolumn}
+\usepackage{epstopdf}
+\usepackage{booktabs}
+\usepackage{fancyhdr}
+\usepackage{longtable}
+\usepackage{calc}
+\usepackage{datatool}
+\usepackage[bottom]{footmisc}
+\usepackage{listings}
+\usepackage{textcomp}
+\usepackage{titlesec}
+\usepackage{rotating}
+\usepackage{multirow}
+\usepackage{placeins}
+\usepackage{color}
+\usepackage[table,usenames,dvipsnames]{xcolor}
+\usepackage{hyperref}
+\usepackage{makecell}
+\usepackage{breakurl}
+\usepackage{multirow}
+\usepackage{babel,blindtext}
+\usepackage{subcaption}
+\usepackage{xcolor,colortbl}
+\usepackage{multicol}
+\usepackage[inline]{enumitem}
+\usepackage{libertine}%  serif and sans serif
+\usepackage[scaled=0.85]{beramono}%% mono
+\usepackage[toc,page]{appendix}
+\usepackage{spverbatim}
+\usepackage{verbatim}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage[parfill]{parskip}
+\usepackage{geometry}
+\usepackage[nottoc]{tocbibind}
+\usepackage{amsmath}
+\pagestyle{fancy}
+\fancyhead[L]{\rightmark}
+
+\colorlet{punct}{red!60!black}
+\colorlet{numb}{magenta!60!black}
+\definecolor{background}{HTML}{EEEEEE}
+\definecolor{delim}{RGB}{20,105,176}
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{Gray}{gray}{0.92}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+\DeclareUnicodeCharacter{00A0}{~}
+
+
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\renewcommand{\chaptermark}[1]{\markboth{\thechapter.\space#1}{}} 
+\renewcommand*{\arraystretch}{1.6}
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+
+
+\titleformat{\paragraph}{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+\titlespacing*{\paragraph}{0pt}{2.25ex plus 1ex minus .2ex}{1ex plus .2ex}
+\titleformat{\subparagraph}{\normalfont\normalsize\bfseries}{\thesubparagraph}{1em}{}
+\titlespacing*{\subparagraph}{0pt}{2.25ex plus 1ex minus .2ex}{1ex plus .2ex}
+\linespread{1.2}\selectfont
+
+\geometry{
+	a4paper,
+	total={170mm,257mm},
+	left=25mm,
+	right=25mm,
+	top=20mm
+}
+
+\def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
+\let\endchangemargin=\endlist 
+
+\lstdefinelanguage{json}{
+	basicstyle=\normalfont\ttfamily,
+	numbers=left,
+	numberstyle=\scriptsize,
+	stepnumber=1,
+	numbersep=8pt,
+	showstringspaces=false,
+	breaklines=true,
+	frame=lines,
+	backgroundcolor=\color{background},
+	literate=
+	*{0}{{{\color{numb}0}}}{1}
+	{1}{{{\color{numb}1}}}{1}
+	{2}{{{\color{numb}2}}}{1}
+	{3}{{{\color{numb}3}}}{1}
+	{4}{{{\color{numb}4}}}{1}
+	{5}{{{\color{numb}5}}}{1}
+	{6}{{{\color{numb}6}}}{1}
+	{7}{{{\color{numb}7}}}{1}
+	{8}{{{\color{numb}8}}}{1}
+	{9}{{{\color{numb}9}}}{1}
+	{:}{{{\color{punct}{:}}}}{1}
+	{,}{{{\color{punct}{,}}}}{1}
+	{\{}{{{\color{delim}{\{}}}}{1}
+	{\}}{{{\color{delim}{\}}}}}{1}
+	{[}{{{\color{delim}{[}}}}{1}
+	{]}{{{\color{delim}{]}}}}{1},
+}
+
+
+
+
+
+
+
+
+
+
+
+

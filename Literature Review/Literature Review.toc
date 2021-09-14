@@ -1,0 +1,52 @@
+\babel@toc {english}{}
+\contentsline {chapter}{List of Figures}{4}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Problem Statement}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Scope of the Project}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Aims and Objectives}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Use Case – \&Facts}{2}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Internship}{3}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Dissertation Structure}{3}{section.1.6}%
+\contentsline {chapter}{\numberline {2}Literature Review}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Market Research Platform}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Data Extraction, Integration and Processing and Storage}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.3}AI, ML and Big Data}{5}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Supervised learning}{5}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Unsupervised learning}{5}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Reinforcement learning}{5}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}ML workflow}{6}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Data aggregation}{6}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Data cleaning}{6}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Data processing}{6}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Data analysis}{6}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}Evaluation}{6}{subsection.2.4.5}%
+\contentsline {section}{\numberline {2.5}Tools and Techniques}{7}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Aurelia}{7}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Django}{7}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Spark}{7}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}Docker}{8}{subsection.2.5.4}%
+\contentsline {subsection}{\numberline {2.5.5}Query optimization through hashing}{8}{subsection.2.5.5}%
+\contentsline {chapter}{\numberline {3}Development methodology}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}System Architecture}{9}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Functional and Technical User Stories}{10}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Planning}{11}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Life-cycle model}{11}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Gantt chart}{12}{section.4.2}%
+\contentsline {chapter}{Bibliography}{13}{chapter*.11}%
+\contentsline {chapter}{Appendices}{15}{section*.12}%
+\contentsline {chapter}{\numberline {A}Glossary}{16}{appendix.1.A}%
+\contentsline {paragraph}{C}{16}{appendix.1.A}%
+\contentsline {subparagraph}{Continuous Integration and Continuous Delivery}{16}{appendix.1.A}%
+\contentsline {subparagraph}{Customer}{16}{appendix.1.A}%
+\contentsline {paragraph}{D}{16}{appendix.1.A}%
+\contentsline {subparagraph}{Data Analysis}{16}{appendix.1.A}%
+\contentsline {subparagraph}{Data Warehouse}{16}{appendix.1.A}%
+\contentsline {subparagraph}{Data Mart}{16}{appendix.1.A}%
+\contentsline {subparagraph}{Descriptive Analytics}{16}{appendix.1.A}%
+\contentsline {subparagraph}{Development Methodology}{17}{appendix.1.A}%
+\contentsline {paragraph}{M}{17}{appendix.1.A}%
+\contentsline {subparagraph}{Marketing Research}{17}{appendix.1.A}%
+\contentsline {paragraph}{P}{17}{appendix.1.A}%
+\contentsline {subparagraph}{Minimum Viable Product}{17}{appendix.1.A}%
+\contentsline {paragraph}{S}{17}{appendix.1.A}%
+\contentsline {subparagraph}{Stakeholder}{17}{appendix.1.A}%

@@ -1,0 +1,141 @@
+\begin{thebibliography}{10}
+
+\bibitem{marketingresearch}
+Bello Ayuba, Olalekan Aina, and Kazeem.
+\newblock The role of marketing research on the performance of business
+  organizations.
+\newblock 7, 01 2015.
+\newblock
+  https://www.researchgate.net/publication/344177049\_The\_Role\_of\_Marketing\_Research\\\_on\_the\_Performance\_of\_Business\_Organizations.
+
+\bibitem{kmeans}
+Bahman Bahmani, Benjamin Moseley, Andrea Vattani, Ravi Kumar, and Sergei
+  Vassilvitskii.
+\newblock Scalable k-means++.
+\newblock {\em Proc. VLDB Endow.}, 5, 03 2012.
+\newblock
+  https://www.researchgate.net/publication/221966107\_Scalable\_K-Means.
+
+\bibitem{socialtrends}
+H.~N. {Bhor}, T.~{Koul}, R.~{Malviya}, and K.~{Mundra}.
+\newblock Digital media marketing using trend analysis on social media.
+\newblock In {\em 2018 2nd International Conference on Inventive Systems and
+  Control (ICISC)}, pages 1398--1400, 2018.
+\newblock https://ieeexplore.ieee.org/document/8399038.
+
+\bibitem{docker}
+Nigel Brown.
+\newblock Containerizing a software application with docker.
+\newblock https://app.pluralsight.com/.
+
+\bibitem{mapreduce}
+Jeffrey Dean and Sanjay Ghemawat.
+\newblock Mapreduce: Simplified data processing on large clusters.
+\newblock volume~51, pages 137--150, 01 2004.
+\newblock
+  https://www.researchgate.net/publication/220851866\_MapReduce\_Simplified\_Data\\\_Processing\_on\_Large\_Clusters.
+
+\bibitem{googleanalytics}
+Susanna Galbraith.
+\newblock Google analytics.
+\newblock {\em Journal of the Canadian Health Libraries Association},
+  34:119--122, 08 2013.
+\newblock
+  https://www.researchgate.net/publication/272894748\_Google\_Analytics.
+
+\bibitem{lsh}
+Aristides Gionis, Piotr Indyk, and Rajeev Motwani.
+\newblock Similarity search in high dimensions via hashing.
+\newblock {\em Proceeding VLDB '99 Proceedings of the 25th International
+  Conference on Very Large Data Bases}, 99, 05 2000.
+\newblock
+  https://www.researchgate.net/publication/2634460\_Similarity\_Search\_in\_High\_Dimensions\\\_via\_Hashing.
+
+\bibitem{amq}
+Y.~{Hua}, B.~{Xiao}, B.~{Veeravalli}, and D.~{Feng}.
+\newblock Locality-sensitive bloom filter for approximate membership query.
+\newblock {\em IEEE Transactions on Computers}, 61(6):817--830, 2012.
+\newblock https://ieeexplore.ieee.org/document/5928322.
+
+\bibitem{brandsimpact}
+L.~{Huang} and X.~{Zhang}.
+\newblock A new marketing effectiveness metric based on web data mining.
+\newblock In {\em 2009 1st IEEE Symposium on Web Society}, pages 5--9, 2009.
+\newblock https://ieeexplore.ieee.org/document/5271733.
+
+\bibitem{django}
+Reindert Jan.
+\newblock Django fundamentals.
+\newblock https://app.pluralsight.com/.
+
+\bibitem{mlworkflow}
+Kipp Johnson, Jessica Soto, Benjamin Glicksberg, Shameer Khader, Riccardo
+  Miotto, Mohsin Ali, and Euan Ashley.
+\newblock Artificial intelligence in cardiology.
+\newblock {\em Journal of the American College of Cardiology}, 71:2668--2679,
+  06 2018.
+\newblock
+  https://www.researchgate.net/publication/325585229\_Artificial\_Intelligence\_in\_Cardiology.
+
+\bibitem{reinforcementlearning}
+Lixin Ma and Yang Liu.
+\newblock Application of a deep reinforcement learning method in financial
+  market trading.
+\newblock In {\em 2019 11th International Conference on Measuring Technology
+  and Mechatronics Automation (ICMTMA)}, pages 421--425, 2019.
+\newblock https://ieeexplore.ieee.org/document/8858758.
+
+\bibitem{sentimentanalysis}
+V.~S. {Rajput} and S.~M. {Dubey}.
+\newblock Stock market sentiment analysis based on machine learning.
+\newblock In {\em 2016 2nd International Conference on Next Generation
+  Computing Technologies (NGCT)}, pages 506--510, 2016.
+\newblock https://ieeexplore.ieee.org/document/7877468.
+
+\bibitem{digitaltrasformationsmes}
+Dilber Ulas.
+\newblock Digital transformation process and smes.
+\newblock {\em Procedia Computer Science}, 158:662--671, 2019.
+\newblock 3rd WORLD CONFERENCE ON TECHNOLOGY, INNOVATION AND
+  ENTREPRENEURSHIP"INDUSTRY 4.0 FOCUSED INNOVATION, TECHNOLOGY,
+  ENTREPRENEURSHIP AND MANUFACTURE" June 21-23, 2019.
+
+\bibitem{onlineregressionkernels}
+S.~Van~Vaerenbergh and I.~Santamaria.
+\newblock Online regression with kernels.
+\newblock In {\em Regularization, Optimization, Kernels, and Support Vector
+  Machines}, pages 477--501, New York, 2014. Chapman and Hall/CRC.
+\newblock
+  https://gtas.unican.es/files/pub/ch21\_online\_regression\_with\_kernels.pdf.
+
+\bibitem{marketingml}
+P.~{Vats} and K.~{Samdani}.
+\newblock Study on machine learning techniques in financial markets.
+\newblock In {\em 2019 IEEE International Conference on System, Computation,
+  Automation and Networking (ICSCAN)}, pages 1--5, 2019.
+\newblock https://ieeexplore.ieee.org/document/8878741.
+
+\bibitem{silhouette}
+Fei Wang, Hector-Hugo Franco-Penya, John Kelleher, John Pugh, and Robert Ross.
+\newblock An analysis of the application of simplified silhouette to the
+  evaluation of k-means clustering validity.
+\newblock 07 2017.
+\newblock https://www.researchgate.net/publication/318109824.
+
+\bibitem{spark}
+Matei Zaharia, Mosharaf Chowdhury, Michael Franklin, Scott Shenker, and Ion
+  Stoica.
+\newblock Spark: Cluster computing with working sets.
+\newblock {\em Proceedings of the 2nd USENIX conference on Hot topics in cloud
+  computing}, 10:10--10, 07 2010.
+\newblock
+  https://www.researchgate.net/publication/234790155\_Spark\_Cluster\_Computing\\\_with\_Working\_Sets.
+
+\bibitem{quantcloud}
+P.~{Zhang}, X.~{Shi}, and S.~U. {Khan}.
+\newblock Quantcloud: Enabling big data complex event processing for
+  quantitative finance through a data-driven execution.
+\newblock {\em IEEE Transactions on Big Data}, 5(4):564--575, 2019.
+\newblock https://ieeexplore.ieee.org/document/8386682.
+
+\end{thebibliography}

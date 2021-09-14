@@ -1,0 +1,118 @@
+\begin{thebibliography}{10}
+
+\bibitem{feasibility}
+D.~N. Hussain, ``Feasibility study and software requirements of \&facts market
+  research platform,'' 09 2020.
+
+\bibitem{digitaltrasformationsmes}
+D.~Ulas, ``Digital transformation process and smes,'' {\em Procedia Computer
+  Science}, vol.~158, pp.~662--671, 2019.
+\newblock 3rd WORLD CONFERENCE ON TECHNOLOGY, INNOVATION AND
+  ENTREPRENEURSHIP"INDUSTRY 4.0 FOCUSED INNOVATION, TECHNOLOGY,
+  ENTREPRENEURSHIP AND MANUFACTURE" June 21-23, 2019.
+
+\bibitem{googleanalytics}
+S.~Galbraith, ``Google analytics,'' {\em Journal of the Canadian Health
+  Libraries Association}, vol.~34, pp.~119--122, 08 2013.
+\newblock
+  \\\url{https://www.researchgate.net/publication/272894748_Google_Analytics}.
+
+\bibitem{marketingresearch}
+B.~Ayuba, O.~Aina, and Kazeem, ``The role of marketing research on the
+  performance of business organizations,'' vol.~7, 01 2015.
+\newblock
+  \\\url{https://www.researchgate.net/publication/344177049_The_Role_of_Marketing_Research_on_the_Performance_of_Business_Organizations}.
+
+\bibitem{brandsimpact}
+L.~{Huang} and X.~{Zhang}, ``A new marketing effectiveness metric based on web
+  data mining,'' in {\em 2009 1st IEEE Symposium on Web Society}, pp.~5--9,
+  2009.
+\newblock \\\url{https://ieeexplore.ieee.org/document/5271733}.
+
+\bibitem{marketingml}
+P.~{Vats} and K.~{Samdani}, ``Study on machine learning techniques in financial
+  markets,'' in {\em 2019 IEEE International Conference on System, Computation,
+  Automation and Networking (ICSCAN)}, pp.~1--5, 2019.
+\newblock \\\url{https://ieeexplore.ieee.org/document/8878741}.
+
+\bibitem{quantcloud}
+P.~{Zhang}, X.~{Shi}, and S.~U. {Khan}, ``Quantcloud: Enabling big data complex
+  event processing for quantitative finance through a data-driven execution,''
+  {\em IEEE Transactions on Big Data}, vol.~5, no.~4, pp.~564--575, 2019.
+\newblock \\\url{https://ieeexplore.ieee.org/document/8386682}.
+
+\bibitem{spark}
+M.~Zaharia, M.~Chowdhury, M.~Franklin, S.~Shenker, and I.~Stoica, ``Spark:
+  Cluster computing with working sets,'' {\em Proceedings of the 2nd USENIX
+  conference on Hot topics in cloud computing}, vol.~10, pp.~10--10, 07 2010.
+\newblock
+  \\\url{https://www.researchgate.net/publication/234790155_Spark_Cluster_Computing_with_Working_Sets}.
+
+\bibitem{socialtrends}
+H.~N. {Bhor}, T.~{Koul}, R.~{Malviya}, and K.~{Mundra}, ``Digital media
+  marketing using trend analysis on social media,'' in {\em 2018 2nd
+  International Conference on Inventive Systems and Control (ICISC)},
+  pp.~1398--1400, 2018.
+\newblock \\\url{https://ieeexplore.ieee.org/document/8399038}.
+
+\bibitem{lsh}
+A.~Gionis, P.~Indyk, and R.~Motwani, ``Similarity search in high dimensions via
+  hashing,'' {\em Proceeding VLDB '99 Proceedings of the 25th International
+  Conference on Very Large Data Bases}, vol.~99, 05 2000.
+\newblock
+  \\\url{https://www.researchgate.net/publication/2634460_Similarity_Search_in_High_Dimensions_via_Hashing}.
+
+\bibitem{sentimentanalysis}
+V.~S. {Rajput} and S.~M. {Dubey}, ``Stock market sentiment analysis based on
+  machine learning,'' in {\em 2016 2nd International Conference on Next
+  Generation Computing Technologies (NGCT)}, pp.~506--510, 2016.
+\newblock \\\url{https://ieeexplore.ieee.org/document/7877468}.
+
+\bibitem{kmeans}
+B.~Bahmani, B.~Moseley, A.~Vattani, R.~Kumar, and S.~Vassilvitskii, ``Scalable
+  k-means++,'' {\em Proc. VLDB Endow.}, vol.~5, 03 2012.
+\newblock
+  \\\url{https://www.researchgate.net/publication/221966107_Scalable_K-Means}.
+
+\bibitem{reinforcementlearning}
+L.~Ma and Y.~Liu, ``Application of a deep reinforcement learning method in
+  financial market trading,'' in {\em 2019 11th International Conference on
+  Measuring Technology and Mechatronics Automation (ICMTMA)}, pp.~421--425,
+  2019.
+\newblock \\\url{https://ieeexplore.ieee.org/document/8858758}.
+
+\bibitem{mlworkflow}
+K.~Johnson, J.~Soto, B.~Glicksberg, S.~Khader, R.~Miotto, M.~Ali, and
+  E.~Ashley, ``Artificial intelligence in cardiology,'' {\em Journal of the
+  American College of Cardiology}, vol.~71, pp.~2668--2679, 06 2018.
+\newblock
+  \\\url{https://www.researchgate.net/publication/325585229_Artificial_Intelligence_in_Cardiology}.
+
+\bibitem{django}
+R.~Jan, ``Django fundamentals,''
+\newblock \\\url{https://app.pluralsight.com/}.
+
+\bibitem{mapreduce}
+J.~Dean and S.~Ghemawat, ``Mapreduce: Simplified data processing on large
+  clusters,'' vol.~51, pp.~137--150, 01 2004.
+\newblock
+  \\\url{https://www.researchgate.net/publication/220851866_MapReduce_Simplified_Data_Processing_on_Large_Clusters}.
+
+\bibitem{docker}
+N.~Brown, ``Containerizing a software application with docker,''
+\newblock \\\url{https://app.pluralsight.com/}.
+
+\bibitem{amq}
+Y.~{Hua}, B.~{Xiao}, B.~{Veeravalli}, and D.~{Feng}, ``Locality-sensitive bloom
+  filter for approximate membership query,'' {\em IEEE Transactions on
+  Computers}, vol.~61, no.~6, pp.~817--830, 2012.
+\newblock \\\url{https://ieeexplore.ieee.org/document/5928322}.
+
+\bibitem{deduplication}
+A.~{Berman}, Y.~{Birk}, and A.~{Mendelson}, ``Accelerating duplicate data chunk
+  recognition using nn trained by locality-sensitive hash,'' in {\em 2014 IEEE
+  28th Convention of Electrical Electronics Engineers in Israel (IEEEI)},
+  pp.~1--5, 2014.
+\newblock \\\url{https://ieeexplore.ieee.org/document/7005887}.
+
+\end{thebibliography}

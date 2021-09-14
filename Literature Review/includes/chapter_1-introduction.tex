@@ -1,0 +1,84 @@
+\newpage
+\chapter{Introduction}
+
+\textsl{The purpose of the current chapter is to describe the general characteristics of an AI enabled market research platform, explain the scope of the project, detail a list of aims and objectives and define the structure of the dissertation.}
+
+\section{Problem Statement}
+When doing market research, most Small and Medium-Size Enterprises (SMEs) don’t know what to search for, struggle to find appropriate sources or lack the digital tools to properly analyse and make use of information. Nonetheless such data is vital for the success and functionality of businesses, as 60\% of SMEs in UK fail within 3 years and lack of marketing research is a key reason \cite{feasibility}. For example, a company selling phones needs to see if the demand for mobile phones is growing or shrinking and know which accessories and phones are more popular and why. A physical restaurant should have a detailed knowledge of the dining trends of the food industry in their area. Usually, large companies have their own complex systems for recording data, store it upon well-structured models, analyse it and generate useful reports. Such systems, however, are too expensive to build for SMEs and require lots of knowledge and data for their functionality to begin with \cite{digitaltrasformationsmes}. To overcome this limitation, this project aims to develop a general-purpose marketing research platform that can provide affordable and high-quality data-driven marketing insights as-a-service to small and medium sized companies. Other such platform exist but they solve very specific business problems. One such platform is QuantCloud, a trading service that uses predictive algorithms to find patterns within stock market data and offer stock market insights \cite{quantcloud}. QuantCloud can calculate the seasonal volatility of log returns for grouped data, the Autoregressive-moving average (ARMA) etc. Another platform is Google Analytics which tracks websites usage and provides businesses with product trends, users behaviour information, custom reports etc. \cite{googleanalytics}. Even so, Google Analytics cannot track everything that happens on a web site so the information it provides is often an approximation. Moreover, in some cases there is lots of missing, unwanted or approximative information. Else-ways, the Market Research platform proposed by \&Facts aims to actively help businesses in their search by taking away all the guesswork and provide them with a wide array of marketing tools and descriptive analytics. By gathering information from a variety of sources (documents, logs, APIs, websites, online surveys etc.) and even other marketing applications, the proposed platform can create marketing knowledge within different marketing fields and companies need only to make use of the final results, presented through graphs, charts etc. This enables smart business decisions and improves competitiveness of businesses. 
+
+\newpage
+\section{Scope of the Project}
+Our goal is to study and develop AI-enabled market research tools and how to gather, integrate and apply big data to it in order to generate general purpose marketing insights. We are working closely with the industrial partner over a series of meetings in order to properly understand and define the business requirements and platform development opportunities and challenges. We will choose and learn all the appropriate technologies necessary to implement the project requirements. We will then write a state-of-the-art literature review in which we present any related work, existing limitations, development methodologies and project plan. Finally, we will work on the implementation of the marketing research platform, while documenting its modules and continuously deploy it. 
+
+\section{Aims and Objectives}
+The main goal of this project is to develop a Web-based Market Research Platform by leveraging AI, ML and Big data technologies that will integrate data from different sources and process and analyse the information in real time for marketing insights. In order to implement such a system, the following objectives are set:
+\begin{itemize}
+	\item Create an API for integrating all data sources on a common model;
+	\item Use AI and ML to Develop a business intelligence tool that produces general purpose marketing insights;
+	\item Implement a Search Module;
+	\item Build a data visualization dashboard;
+	\item Configure a central repository to store, process and query existing market research data;
+	\item Develop a Minimum Viable Product (MVP) using suitable development tools and technologies;
+	\item Test and validate the final product.
+\end{itemize}
+
+\begin{comment}
+APIs list;
+\renewcommand*{\arraystretch}{1.2}
+\begin{longtable}{p{13cm}}
+	> Google Trends (Pytrends): returns search trends;  \\
+	> Clearbit: gives social media handles and other such information; \\
+	> Luminati: offers products information; \\
+	> Social Media APIs (Facebook Graph, Twitter, Instagram, LinkedIn): they return social media information; \\
+	> DataforSEO: lists search data; \\
+	> Rainforest: returns product data for Amazon; \\
+	> ONS Data: shows various demographic data; \\
+	> Tamoco: offers geospatial data and provides insights on store visits, audience mobility etc. \\
+	> Attest: gives insights from an audience of 100 million consumers; \\
+	> Dealroom: has a dataset on start-ups, high growth companies, funding rounds etc. \\
+	> Crunchbase: shows the latest industry trends, investment insights and rich company data; \\
+	> Spatial.ai: gives geographic social media lifestyle data. \\
+\end{longtable}
+
+Objectives list:
+\renewcommand*{\arraystretch}{1.2}
+\begin{longtable}{p{13cm}}
+	> Forecasting of trends: keywords are used to fetch trends data from Luminati, Google Trends and DataforSEO. This information is visualized in a graph and users are able to select the dates of the trends including future dates and choose a forecasting method (geometric models, S-curves etc.). The forecasting is performed according to the choice of the user; \\
+	> Causal Factors of trends: data is collected from appropriate APIs to show how much a product or a company is affected by external circumstances over time and which circumstances; \\
+	> Economic trends: pricing data is collected to understand how much money a company or product are making. This data can be collected through web scraping, or through the Bank of England website. The latter was chosen because \&Facts operates mainly in England; \\
+	> Feature Classification using neural networks and clustering: neural networks are trained to perform classification of key features (such as 'success/failure'). Clustering is used to classify companies to the insights or actions that best suits them (for example, can they afford to take on more debt?); \\
+	> NLP Analysis on Facebook Ads: The Facebook ads library returns a list of ads associated with every trend. This data can be used to suggest what possible ads a client can create for their business based on what the competitors in their field are doing; \\
+	> Social listening: this uses the APIs of social media to get data from users and perform sentiment analysis to get some insights about the likeability of products and brands. \\
+\end{longtable}
+\end{comment}
+
+
+\section{Use Case – \&Facts}
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.3]{img/andfacts.png}
+	\caption{Logo of \&Facts Limited}
+\end{figure} 
+The industrial partner for this project is \&Facts Limited (https://www.andfacts.com), a market research service company based in Birmingham that provides end-to-end online market research services for Small and Medium-Sized Enterprises (SMEs) on the internet. The \&Facts business challenge is a well-known online market research problem in general for SMEs. The primary objective of the MSc research is to implement the \&Facts use cases by investigating and developing an AI enabled research platform that analyses data from various sources and produces invaluable marketing information. 
+
+\newpage
+\section{Internship}
+The project is a 600 hours long internship done under the Enabling Technologies \& Innovation Competences Challenge program (ETICC) and as a part of the ERASMUS-funded Smart Telecom and Sensing Networks program (SMARTNET). I will write my thesis on the work done during this internship. The ETICC project at Aston University offered a feasibility study of an existing \&Facts research system and \&Facts agreed to pay for and provide the necessary API keys and infrastructure required for development. The customer agreed to remote working with frequent by-weekly meetings on streaming platforms to track progress and re-adjourn.
+
+\section{Dissertation Structure}
+The workload is split into the following activities:
+\begin{itemize}
+	\item Chapter 1 gives an overview of the project;
+	\item Chapter 2 presents the literature review;
+	\item Chapter 3 offers an analysis of the technologies that have been used and how;
+	\item Chapter 4 provides an analysis of the requirements;
+	\item Chapter 5 explains the architecture of the research platform;
+	\item Chapter 6 presents a retrospective analysis of the project and offers some conclusions.
+\end{itemize}
+The activities and their subtasks are scheduled through a Gantt chart, which is a useful tool for seeing the various dependencies between activities and sub-activities. In a Gantt chart is possible to represent, through black rhombuses, milestones that coincide with the end of a period or objectives to be achieved. It’s important to respect the allocated time for the main activities, in order not to cause delays in all the other related tasks. The planning is described in chapter 3.
+
+
+
+
+
+

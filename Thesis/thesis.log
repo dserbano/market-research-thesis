@@ -1,0 +1,1914 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.6)  13 SEP 2021 15:36
+entering extended mode
+**./thesis.tex
+(thesis.tex
+LaTeX2e <2021-06-01>
+L3 programming layer <2021-06-01> (includes/preamble.tex
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scr
+book.cls
+Document Class: scrbook 2021/06/25 v3.34 KOMA-Script document class (book)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scr
+kbase.sty
+Package: scrkbase 2021/06/25 v3.34 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scr
+base.sty
+Package: scrbase 2021/06/25 v3.34 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scr
+lfile.sty
+Package: scrlfile 2021/06/25 v3.34 KOMA-Script package (file load hooks)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scr
+lfile-hook.sty
+Package: scrlfile-hook 2021/06/25 v3.34 KOMA-Script package (using LaTeX hooks)
+
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scr
+logo.sty
+Package: scrlogo 2021/06/25 v3.34 KOMA-Script package (logo)
+)))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval
+.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\toc
+basic.sty
+Package: tocbasic 2021/06/25 v3.34 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip47
+\scr@dte@tocline@numbox=\box50
+)
+Package tocbasic Info: babel extension for `toc' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 137.
+Class scrbook Info: You've used standard option `oneside'.
+(scrbook)           This is correct!
+(scrbook)           Internally I'm using `twoside=false'.
+(scrbook)           If you'd like to set the option with \KOMAoptions,
+(scrbook)           you'd have to use `twoside=false' there
+(scrbook)           instead of `oneside', too.
+Class scrbook Info: File `scrsize11pt.clo' used to setup font sizes on input li
+ne 2489.
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scr
+size11pt.clo
+File: scrsize11pt.clo 2021/06/25 v3.34 KOMA-Script font size class option (11pt
+)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\typ
+earea.sty
+Package: typearea 2021/06/25 v3.34 KOMA-Script package (type area)
+\ta@bcor=\skip48
+\ta@div=\count182
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+Package typearea Info: You've used standard option `oneside'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `twoside=false'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `twoside=false' there
+(typearea)             instead of `oneside', too.
+\ta@hblk=\skip49
+\ta@vblk=\skip50
+\ta@temp=\skip51
+\footheight=\skip52
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 34.1433pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 394.35527pt
+(typearea)              DIV departure   = 0%
+(typearea)              \evensidemargin = 46.37799pt
+(typearea)              \oddsidemargin  = 46.37799pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 555.00024pt
+(typearea)              \topmargin      = 12.2347pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1742.
+)
+\c@part=\count183
+\c@chapter=\count184
+\c@section=\count185
+\c@subsection=\count186
+\c@subsubsection=\count187
+\c@paragraph=\count188
+\c@subparagraph=\count189
+\scr@dte@chapter@maxnumwidth=\skip53
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\chapter on input line 5714.
+\scr@dte@section@maxnumwidth=\skip54
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\section on input line 5725.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\section on input line 5725.
+\scr@dte@part@maxnumwidth=\skip55
+Class scrbook Info: using compatibility default `afterindent=true'
+(scrbook)           for `\part on input line 5734.
+\scr@dte@subsection@maxnumwidth=\skip56
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsection on input line 5744.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsection on input line 5744.
+\scr@dte@subsubsection@maxnumwidth=\skip57
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsubsection on input line 5754.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsubsection on input line 5754.
+\scr@dte@paragraph@maxnumwidth=\skip58
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\paragraph on input line 5765.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\paragraph on input line 5765.
+\scr@dte@subparagraph@maxnumwidth=\skip59
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subparagraph on input line 5775.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subparagraph on input line 5775.
+\abovecaptionskip=\skip60
+\belowcaptionskip=\skip61
+\c@pti@nb@sid@b@x=\box51
+Package tocbasic Info: babel extension for `lof' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6961.
+
+\scr@dte@figure@maxnumwidth=\skip62
+\c@figure=\count190
+Package tocbasic Info: babel extension for `lot' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6982.
+
+\scr@dte@table@maxnumwidth=\skip63
+\c@table=\count191
+Class scrbook Info: Redefining `\numberline' on input line 7155.
+\bibindent=\dimen138
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/acronym\acronym
+.sty
+Package: acronym 2020/04/17 v1.47 Support for acronyms (Tobias Oetiker)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/bigfoot\suffix.
+sty
+Package: suffix 2006/07/15 1.5a Variant command support
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring
+.sty
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstri
+ng.tex
+\integerpart=\count192
+\decimalpart=\count193
+)
+Package: xstring 2021/07/21 v1.84 String manipulations (CT)
+)
+\AC@clearlist=\toks17
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cs.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.s
+ty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\gr
+aphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pd
+ftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperr
+ef.sty
+Package: hyperref 2021-06-05 v7.00l Hypertext links for LaTeX
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcm
+ds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.s
+ty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pd
+ftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\inf
+warerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvs
+etkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\
+kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdf
+escape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor
+.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\let
+ltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook
+.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvopt
+ions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen141
+\Hy@linkcounter=\count194
+\Hy@pagecounter=\count195
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc
+.def
+File: pd1enc.def 2021-06-05 v7.00l Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperr
+ef-langpatches.def
+File: hyperref-langpatches.def 2021-06-05 v7.00l Hyperref: patches for babel la
+nguages
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intca
+lc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etex
+cmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count196
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.
+def
+File: puenc.def 2021-06-05 v7.00l Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4073.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4073.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count197
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen142
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset
+.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bi
+gintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count198
+\Field@Width=\dimen143
+\Fld@charsize=\dimen144
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring ON on input line 6094.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-l
+tx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count199
+\c@Item=\count266
+\c@Hfootnote=\count267
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdfte
+x.def
+File: hpdftex.def 2021-06-05 v7.00l Hyperref driver for pdfTeX
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-
+ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count268
+\c@bookmark@seq@number=\count269
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\
+rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter
+\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip64
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlay
+er\tikz.sty
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\
+pgf.sty
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\p
+gfrcs.sty
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities
+\pgfutil-common.tex
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen145
+\pgfutil@tempdimb=\dimen146
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities
+\pgfutil-common-lists.tex))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities
+\pgfutil-latex.def
+\pgfutil@abb=\box52
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities
+\pgfrcs.code.tex
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revis
+ion.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\
+pgfcore.sty
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer
+\pgfsys.sty
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlay
+er\pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities
+\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities
+\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks21
+))
+\pgf@x=\dimen147
+\pgf@y=\dimen148
+\pgf@xa=\dimen149
+\pgf@ya=\dimen150
+\pgf@xb=\dimen151
+\pgf@yb=\dimen152
+\pgf@xc=\dimen153
+\pgf@yc=\dimen154
+\pgf@xd=\dimen155
+\pgf@yd=\dimen156
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count270
+\c@pgf@countb=\count271
+\c@pgf@countc=\count272
+\c@pgf@countd=\count273
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+\pgf@sys@id@count=\count274
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlay
+er\pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlay
+er\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlay
+er\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlay
+er\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count275
+\pgfsyssoftpath@bigbuffer@items=\count276
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlay
+er\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.s
+ty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\co
+lor.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+ath.code.tex
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athcalc.code.tex
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athutil.code.tex)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athparser.code.tex
+\pgfmath@dimen=\dimen157
+\pgfmath@count=\count277
+\pgfmath@box=\box53
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athfunctions.code.tex
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athfunctions.basic.code.tex)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athfunctions.trigonometric.code.tex)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athfunctions.random.code.tex)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athfunctions.comparison.code.tex)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athfunctions.base.code.tex)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athfunctions.round.code.tex)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athfunctions.misc.code.tex)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athfunctions.integerarithmetics.code.tex)))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+athfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count278
+))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfi
+nt.code.tex)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen158
+\pgf@picmaxx=\dimen159
+\pgf@picminy=\dimen160
+\pgf@picmaxy=\dimen161
+\pgf@pathminx=\dimen162
+\pgf@pathmaxx=\dimen163
+\pgf@pathminy=\dimen164
+\pgf@pathmaxy=\dimen165
+\pgf@xx=\dimen166
+\pgf@xy=\dimen167
+\pgf@yx=\dimen168
+\pgf@yy=\dimen169
+\pgf@zx=\dimen170
+\pgf@zy=\dimen171
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen172
+\pgf@path@lasty=\dimen173
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen174
+\pgf@shorten@start@additional=\dimen175
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box54
+\pgf@hbox=\box55
+\pgf@layerbox@main=\box56
+\pgf@picture@serial@count=\count279
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen176
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen177
+\pgf@pt@y=\dimen178
+\pgf@pt@temp=\dimen179
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen180
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen181
+\pgf@sys@shading@range@num=\count280
+\pgf@shadingcount=\count281
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box57
+))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
+r\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\p
+gfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box58
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\p
+gfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibili
+ty\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen182
+\pgf@nodesepend=\dimen183
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibili
+ty\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\p
+gffor.sty
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\p
+gfkeys.sty
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities
+\pgfkeys.code.tex))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmat
+h.sty
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+ath.code.tex))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities
+\pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
+ath.code.tex)
+\pgffor@iter=\dimen184
+\pgffor@skip=\dimen185
+\pgffor@stack=\toks28
+\pgffor@toks=\toks29
+))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count282
+\pgfplotmarksize=\dimen186
+)
+\tikz@lastx=\dimen187
+\tikz@lasty=\dimen188
+\tikz@lastxsaved=\dimen189
+\tikz@lastysaved=\dimen190
+\tikz@lastmovetox=\dimen191
+\tikz@lastmovetoy=\dimen192
+\tikzleveldistance=\dimen193
+\tikzsiblingdistance=\dimen194
+\tikz@figbox=\box59
+\tikz@figbox@bg=\box60
+\tikz@tempbox=\box61
+\tikz@tempbox@bg=\box62
+\tikztreelevel=\count283
+\tikznumberofchildren=\count284
+\tikznumberofcurrentchild=\count285
+\tikz@fig@count=\count286
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\p
+gfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count287
+\pgfmatrixcurrentcolumn=\count288
+\pgf@matrix@numberofcolumns=\count289
+)
+\tikz@expandcount=\count290
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.s
+ty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip65
+\bibsep=\skip66
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count291
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssym
+b.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfon
+ts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks30
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath
+.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip67
+
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext
+.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.
+sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks31
+\ex@=\dimen195
+))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.
+sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen196
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.
+sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count292
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count293
+\leftroot@=\count294
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count295
+\DOTSCASE@=\count296
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box63
+\strutbox@=\box64
+\big@size=\dimen197
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count297
+\c@MaxMatrixCols=\count298
+\dotsspace@=\muskip17
+\c@parentequation=\count299
+\dspbrk@lvl=\count300
+\tag@help=\toks32
+\row@=\count301
+\column@=\count302
+\maxfields@=\count303
+\andhelp@=\toks33
+\eqnshift@=\dimen198
+\alignsep@=\dimen199
+\tagshift@=\dimen256
+\tagwidth@=\dimen257
+\totwidth@=\dimen258
+\lineht@=\dimen259
+\@envbody=\toks34
+\multlinegap=\skip68
+\multlinetaggap=\skip69
+\mathdisplay@stack=\toks35
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumit
+em.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip70
+\enit@outerparindent=\dimen260
+\enit@toks=\toks36
+\enit@inbox=\box65
+\enit@count@id=\count304
+\enitdp@description=\count305
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable
+.sty
+Package: longtable 2021-05-07 v4.16 Multi-page Table package (DPC)
+\LTleft=\skip71
+\LTright=\skip72
+\LTpre=\skip73
+\LTpost=\skip74
+\LTchunksize=\count306
+\LTcapwidth=\dimen261
+\LT@head=\box66
+\LT@firsthead=\box67
+\LT@foot=\box68
+\LT@lastfoot=\box69
+\LT@gbox=\box70
+\LT@cols=\count307
+\LT@rows=\count308
+\c@LT@tables=\count309
+\c@LT@chunks=\count310
+\LT@p@ftn=\toks37
+)
+Class scrbook Info: longtable captions redefined on input line 16.
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count311
+\float@exts=\toks38
+\float@box=\box71
+\@float@everytoks=\toks39
+\@floatcapt=\box72
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.
+sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks40
+\verbatim@line=\toks41
+\verbatim@in@stream=\read3
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algo
+rithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@ALC@unique=\count312
+\c@ALC@line=\count313
+\c@ALC@rem=\count314
+\c@ALC@depth=\count315
+\ALC@tlm=\skip75
+\algorithmicindent=\skip76
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algo
+rithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+\@float@every@algorithm=\toks42
+\c@algorithm=\count316
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/listings\listin
+gs.sty
+\lst@mode=\count317
+\lst@gtempboxa=\box73
+\lst@token=\toks43
+\lst@length=\count318
+\lst@currlwidth=\dimen262
+\lst@column=\count319
+\lst@pos=\count320
+\lst@lostspace=\dimen263
+\lst@width=\dimen264
+\lst@newlines=\count321
+\lst@lineno=\count322
+\lst@maxwidth=\dimen265
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmis
+c.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count323
+\lst@skipnumbers=\count324
+\lst@framebox=\box74
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/listings\listin
+gs.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpag
+es.sty
+Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count325
+\calc@Bcount=\count326
+\calc@Adimen=\dimen266
+\calc@Bdimen=\dimen267
+\calc@Askip=\skip77
+\calc@Bskip=\skip78
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count327
+\calc@Cskip=\skip79
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic
+.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen268
+\ESO@tempdimb=\dimen269
+)
+\AM@pagewidth=\dimen270
+\AM@pageheight=\dimen271
+\AM@fboxrule=\dimen272
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdft
+ex.def
+File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count328
+\AM@pagebox=\box75
+\AM@global@opts=\toks44
+\AM@pagecnt=\count329
+\AM@toc@title=\toks45
+\c@AM@survey=\count330
+\AM@templatesizebox=\box76
+)
+
+Class scrbook Warning: Usage of package `tocloft' together
+(scrbook)              with a KOMA-Script class is not recommended.
+(scrbook)              I'd suggest to use options like `listof=entryprefix',
+(scrbook)              commands like `\listoflofentryname' or
+(scrbook)              `\listoflotentryname', and `\DeclareTOCStyleEntry' or
+(scrbook)              `\RedeclareSectionCommand' instead of this package,
+(scrbook)              because it breaks several KOMA-Script features of
+(scrbook)              the list of figures, list of tables and table of
+(scrbook)              contents, i.e., options like `listof=numbered',
+(scrbook)              `listof=flat or `toc=flat', commands like
+(scrbook)              `\BeforeTOCHead{...}' and `\AfterTOCHead{...}',
+(scrbook)              `\BeforeStartingTOC{...}' and \AfterStartingTOC{...}',
+(scrbook)              all features of `\DeclareTOCStyleEntry',
+(scrbook)              and the ToC entry features of `\DeclareSecionCommand'
+(scrbook)              and `\RedeclareSectionCommand' of levels
+(scrbook)              `part', `section', `subsection',
+(scrbook)              `subsubsection', `paragraph' and `subparagraph'.
+(scrbook)              Nevertheless, using requested
+(scrbook)              package `tocloft' on input line 74.
+
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft
+.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip80
+\cftbeforetoctitleskip=\skip81
+\cftaftertoctitleskip=\skip82
+\cftbeforepartskip=\skip83
+\cftpartnumwidth=\skip84
+\cftpartindent=\skip85
+\cftbeforechapskip=\skip86
+\cftchapindent=\skip87
+\cftchapnumwidth=\skip88
+\cftbeforesecskip=\skip89
+\cftsecindent=\skip90
+\cftsecnumwidth=\skip91
+\cftbeforesubsecskip=\skip92
+\cftsubsecindent=\skip93
+\cftsubsecnumwidth=\skip94
+\cftbeforesubsubsecskip=\skip95
+\cftsubsubsecindent=\skip96
+\cftsubsubsecnumwidth=\skip97
+\cftbeforeparaskip=\skip98
+\cftparaindent=\skip99
+\cftparanumwidth=\skip100
+\cftbeforesubparaskip=\skip101
+\cftsubparaindent=\skip102
+\cftsubparanumwidth=\skip103
+\cftbeforeloftitleskip=\skip104
+\cftafterloftitleskip=\skip105
+\cftbeforefigskip=\skip106
+\cftfigindent=\skip107
+\cftfignumwidth=\skip108
+\c@lofdepth=\count331
+\c@lotdepth=\count332
+\cftbeforelottitleskip=\skip109
+\cftafterlottitleskip=\skip110
+\cftbeforetabskip=\skip111
+\cfttabindent=\skip112
+\cfttabnumwidth=\skip113
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/libertine\liber
+tine.sty
+Package: libertine 2020/03/26 (Bob Tennent) Supports Libertine and Biolinum fon
+ts for all LaTeX engines.
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex
+.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluate
+x.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval
+.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyv
+al.tex
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvut
+ils.tex
+\XKV@toks=\toks46
+\XKV@tempa@toks=\toks47
+)
+\XKV@depth=\count333
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.s
+ty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.st
+y
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontax
+es.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \oldstylenums on input line 484.
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/libertine\LinLi
+bertine_I.tex))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.st
+y
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+LinuxLibertineT-TLF 
+on input line 112.
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/libertine\t1lin
+uxlibertinet-tlf.fd
+File: T1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Li
+nuxLibertineT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 112.
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspa
+ce.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption
+.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption
+3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen273
+\captionmargin@=\dimen274
+\captionwidth=\dimen275
+\caption@tempdima=\dimen276
+\caption@indent=\dimen277
+\caption@parindent=\dimen278
+\caption@hangindent=\dimen279
+Package caption Info: KOMA-Script document class detected.
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption
+-koma.sto
+File: caption-koma.sto 2020/09/21 v2.0b Adaption of the caption package to the 
+KOMA-Script document classes (AR)
+))
+\c@caption@flags=\count334
+\c@continuedfloat=\count335
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcapti
+on.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.s
+ty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count336
+\sf@farskip=\skip114
+\sf@captopadj=\dimen280
+\sf@capskip=\skip115
+\sf@nearskip=\skip116
+\c@subfigure=\count337
+\c@subfigure@save=\count338
+\c@subtable=\count339
+\c@subtable@save=\count340
+\sf@top=\skip117
+\sf@bottom=\skip118
+)
+\figwidth=\skip119
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+/shapes\pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+/shapes\pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+/shapes\pgflibraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+/shapes\pgflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryshapes.callouts.code.tex
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+/shapes\pgflibraryshapes.callouts.code.tex))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+/shapes\pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodepartlowerbox=\box77
+\pgfnodeparttwobox=\box78
+\pgfnodepartthreebox=\box79
+\pgfnodepartfourbox=\box80
+\pgfnodeparttwentybox=\box81
+\pgfnodepartnineteenbox=\box82
+\pgfnodeparteighteenbox=\box83
+\pgfnodepartseventeenbox=\box84
+\pgfnodepartsixteenbox=\box85
+\pgfnodepartfifteenbox=\box86
+\pgfnodepartfourteenbox=\box87
+\pgfnodepartthirteenbox=\box88
+\pgfnodeparttwelvebox=\box89
+\pgfnodepartelevenbox=\box90
+\pgfnodeparttenbox=\box91
+\pgfnodepartninebox=\box92
+\pgfnodeparteightbox=\box93
+\pgfnodepartsevenbox=\box94
+\pgfnodepartsixbox=\box95
+\pgfnodepartfivebox=\box96
+)))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryfit.code.tex
+File: tikzlibraryfit.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryautomata.code.tex
+File: tikzlibraryautomata.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+\pgflibrarypatterns.code.tex
+File: pgflibrarypatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarychains.code.tex
+File: tikzlibrarychains.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\p
+gfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen281
+\pgfdecoratedremainingdistance=\dimen282
+\pgfdecoratedinputsegmentcompleteddistance=\dimen283
+\pgfdecoratedinputsegmentremainingdistance=\dimen284
+\pgf@decorate@distancetomove=\dimen285
+\pgf@decorate@repeatstate=\count341
+\pgfdecorationsegmentamplitude=\dimen286
+\pgfdecorationsegmentlength=\dimen287
+)
+\tikz@lib@dec@box=\box97
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarydecorations.markings.code.tex
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+/decorations\pgflibrarydecorations.markings.code.tex))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryscopes.code.tex
+File: tikzlibraryscopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryshadings.code.tex
+File: tikzlibraryshadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
+\pgflibraryshadings.code.tex
+File: pgflibraryshadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
+kend-pdftex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count342
+\l__pdf_internal_box=\box98
+) (thesis.aux)
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+Package scrbase Info: activating english \contentsname on input line 7.
+Package scrbase Info: activating english \listfigurename on input line 7.
+Package scrbase Info: activating english \listtablename on input line 7.
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\sup
+p-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count343
+\scratchdimen=\dimen288
+\scratchbox=\box99
+\nofMPsegments=\count344
+\nofMParguments=\count345
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count346
+\MPscratchDim=\dimen289
+\MPnumerator=\count347
+\makeMPintoPDFobject=\count348
+\everyMPtoPDFconversion=\toks49
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\ep
+stopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstop
+df-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring ON on input line 7.
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\namere
+f.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcou
+nt.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestrin
+g\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count349
+)
+LaTeX Info: Redefining \ref on input line 7.
+LaTeX Info: Redefining \pageref on input line 7.
+LaTeX Info: Redefining \nameref on input line 7.
+ (thesis.out) (thesis.out)
+\@outlinefile=\write4
+\openout4 = `thesis.out'.
+
+Class scrbook Info: loading recommended package `bookmark'.
+(scrbook)           Using `bookmark' together with `hyperref' is recommended,
+(scrbook)           because of handling of possible bookmark level gaps.
+(scrbook)           You can avoid loading `bookmark' with KOMA-Script option
+(scrbook)           `bookmarkpackage=false' before \begin{document} and
+(scrbook)           you can avoid this message adding:
+(scrbook)             \usepackage{bookmark}
+(scrbook)           before \begin{document} on input line 7.
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookma
+rk.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pd
+ftex.def
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count350
+))
+\c@lstlisting=\count351
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdfls
+cape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape
+.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+\c@mv@tabular=\count352
+\c@mv@boldtabular=\count353
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF o
+n input line 9.
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/libertine\t1lin
+uxbiolinumt-tlf.fd
+File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Lin
+uxBiolinumT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 9.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 9.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
+(Font)              scaled to size 24.88pt on input line 9.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 20.74pt on input line 9.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 9.
+LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF
+ on input line 9.
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/libertine\ts1li
+nuxlibertinet-tlf.fd
+File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/
+LinuxLibertineT-TLF.
+)
+LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 9.
+ [1
+
+{C:/Users/Dan Serbanoiu/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+
+pdfTeX warning: pdflatex.exe (file ./includes/smartnet.pdf): PDF inclusion: fou
+nd PDF version <1.7>, but at most version <1.5> allowed
+<includes/smartnet.pdf, id=14, 597.55246pt x 845.07718pt>
+File: includes/smartnet.pdf Graphic file (type pdf)
+<use includes/smartnet.pdf>
+Package pdftex.def Info: includes/smartnet.pdf  used on input line 10.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./includes/smartnet.pdf): PDF inclusion: fou
+nd PDF version <1.7>, but at most version <1.5> allowed
+File: includes/smartnet.pdf Graphic file (type pdf)
+<use includes/smartnet.pdf>
+Package pdftex.def Info: includes/smartnet.pdf  used on input line 10.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./includes/smartnet.pdf): PDF inclusion: fou
+nd PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.exe (file ./includes/smartnet.pdf): PDF inclusion: fou
+nd PDF version <1.7>, but at most version <1.5> allowed
+<includes/smartnet.pdf, id=17, page=1, 597.55246pt x 845.07718pt>
+File: includes/smartnet.pdf Graphic file (type pdf)
+<use includes/smartnet.pdf, page 1>
+Package pdftex.def Info: includes/smartnet.pdf , page1 used on input line 10.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: includes/smartnet.pdf Graphic file (type pdf)
+<use includes/smartnet.pdf, page 1>
+Package pdftex.def Info: includes/smartnet.pdf , page1 used on input line 10.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: includes/smartnet.pdf Graphic file (type pdf)
+<use includes/smartnet.pdf, page 1>
+Package pdftex.def Info: includes/smartnet.pdf , page1 used on input line 10.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: includes/smartnet.pdf Graphic file (type pdf)
+<use includes/smartnet.pdf, page 1>
+Package pdftex.def Info: includes/smartnet.pdf , page1 used on input line 10.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: includes/smartnet.pdf Graphic file (type pdf)
+<use includes/smartnet.pdf, page 1>
+Package pdftex.def Info: includes/smartnet.pdf , page1 used on input line 10.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+[2
+
+
+ <./includes/smartnet.pdf>] (includes/frontmatter.tex
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 1.
+ [3] [4
+
+
+] [5
+
+
+])
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 20.74pt on input line 15.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
+(Font)              scaled to size 20.74pt on input line 15.
+
+(thesis.toc
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 1.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.f
+d
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
+
+(C:\Users\Dan Serbanoiu\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.f
+d
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [6
+
+
+])
+\tf@toc=\write5
+\openout5 = `thesis.toc'.
+
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sl' in size <10.95> no
+t available
+(Font)              Font shape `T1/LinuxLibertineT-TLF/m/it' tried instead on i
+nput line 16.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 16.
+ [7] (thesis.lof [8
+
+
+])
+\tf@lof=\write6
+\openout6 = `thesis.lof'.
+
+ [9] (includes/abbreviations.tex
+Package acronym Info: Label `acro:MRS' newly defined as it shall be overridden
+although it is yet undefined on input line 9.
+Package acronym Info: Label `acro:SME' newly defined as it shall be overridden
+although it is yet undefined on input line 10.
+Package acronym Info: Label `acro:KRLS' newly defined as it shall be overridden
+
+although it is yet undefined on input line 11.
+Package acronym Info: Label `acro:MSE' newly defined as it shall be overridden
+although it is yet undefined on input line 12.
+Package acronym Info: Label `acro:CI/CD' newly defined as it shall be overridde
+n
+although it is yet undefined on input line 13.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 9--22
+
+ []
+
+(includes/chapter_1-introduction.tex [10
+
+
+
+
+]
+chapter 1.
+
+Class scrbook Warning: \float@addtolists detected!
+(scrbook)              Implementation of \float@addtolist became
+(scrbook)              deprecated in KOMA-Script v3.01 2008/11/14 and
+(scrbook)              has been replaced by several more flexible
+(scrbook)              features of package `tocbasic`.
+(scrbook)              Since Version 3.12 support for deprecated
+(scrbook)              \float@addtolist interface has been
+(scrbook)              restricted to only some of the KOMA-Script
+(scrbook)              features and been removed from others.
+(scrbook)              Loading of package `scrhack' may help to
+(scrbook)              avoid this warning, if you are using a
+(scrbook)              a package that still implements the
+(scrbook)              deprecated \float@addtolist interface.
+
+[11
+
+
+]
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[12]
+<img/incremental.jpg, id=266, 387.94937pt x 134.00063pt>
+File: img/incremental.jpg Graphic file (type jpg)
+<use img/incremental.jpg>
+Package pdftex.def Info: img/incremental.jpg  used on input line 33.
+(pdftex.def)             Requested size: 368.54982pt x 127.29985pt.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 34.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 9.0pt on input line 34.
+
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[13 <./img/incremental.jpg>]
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[14]
+<img/gantt.png, id=280, 583.17876pt x 337.26pt>
+File: img/gantt.png Graphic file (type png)
+<use img/gantt.png>
+Package pdftex.def Info: img/gantt.png  used on input line 55.
+(pdftex.def)             Requested size: 408.22235pt x 236.08038pt.
+
+Overfull \hbox (13.86708pt too wide) in paragraph at lines 55--56
+ [][] 
+ []
+
+) (includes/chapter_2-literature_review.tex
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[15 <./img/gantt.png>]
+chapter 2.
+[16
+
+
+]
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 14.
+
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[17]
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[18]
+<img/mlworkflow.png, id=322, 483.30562pt x 171.13937pt>
+File: img/mlworkflow.png Graphic file (type png)
+<use img/mlworkflow.png>
+Package pdftex.def Info: img/mlworkflow.png  used on input line 46.
+(pdftex.def)             Requested size: 386.64502pt x 136.91167pt.
+
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[19 <./img/mlworkflow.png>]
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 76--78
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--82
+
+ []
+
+
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 91.
+
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[22]
+<img/aurelia.png, id=372, 575.14874pt x 170.6375pt>
+File: img/aurelia.png Graphic file (type png)
+<use img/aurelia.png>
+Package pdftex.def Info: img/aurelia.png  used on input line 121.
+(pdftex.def)             Requested size: 258.81454pt x 76.78615pt.
+<img/django.png, id=373, 1204.5pt x 548.0475pt>
+File: img/django.png Graphic file (type png)
+<use img/django.png>
+Package pdftex.def Info: img/django.png  used on input line 130.
+(pdftex.def)             Requested size: 180.6672pt x 82.20357pt.
+
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[23 <./img/aurelia.png> <./img/django.png>]
+<img/spark.png, id=381, 1927.2pt x 1000.73875pt>
+File: img/spark.png Graphic file (type png)
+<use img/spark.png>
+Package pdftex.def Info: img/spark.png  used on input line 144.
+(pdftex.def)             Requested size: 192.7313pt x 100.07973pt.
+<img/docker.png, id=384, 918.43124pt x 476.78125pt>
+File: img/docker.png Graphic file (type png)
+<use img/docker.png>
+Package pdftex.def Info: img/docker.png  used on input line 156.
+(pdftex.def)             Requested size: 367.36598pt x 190.7091pt.
+
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[24 <./img/spark.png>]
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[25 <./img/docker.png (PNG copy)>]) (includes/chapter_3-results.tex
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[26]
+chapter 3.
+<img/wireframe.png, id=406, 587.19376pt x 392.46625pt>
+File: img/wireframe.png Graphic file (type png)
+<use img/wireframe.png>
+Package pdftex.def Info: img/wireframe.png  used on input line 9.
+(pdftex.def)             Requested size: 399.28647pt x 266.8735pt.
+
+Overfull \hbox (4.9312pt too wide) in paragraph at lines 9--10
+ [][] 
+ []
+
+[27
+
+
+ <./img/wireframe.png>]
+<img/architecture.png, id=413, 531.9875pt x 418.56375pt>
+File: img/architecture.png Graphic file (type png)
+<use img/architecture.png>
+Package pdftex.def Info: img/architecture.png  used on input line 21.
+(pdftex.def)             Requested size: 372.38872pt x 292.99261pt.
+
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[28 <./img/architecture.png>]
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[29]
+<img/datapreparation.png, id=425, 552.0625pt x 247.92625pt>
+File: img/datapreparation.png Graphic file (type png)
+<use img/datapreparation.png>
+Package pdftex.def Info: img/datapreparation.png  used on input line 52.
+(pdftex.def)             Requested size: 375.39752pt x 168.58762pt.
+
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[30 <./img/datapreparation.png>]
+<img/keywords.png, id=442, 554.07pt x 223.83624pt>
+File: img/keywords.png Graphic file (type png)
+<use img/keywords.png>
+Package pdftex.def Info: img/keywords.png  used on input line 61.
+(pdftex.def)             Requested size: 376.76262pt x 152.20662pt.
+<img/exp1.png, id=443, 571.63562pt x 287.57437pt>
+File: img/exp1.png Graphic file (type png)
+<use img/exp1.png>
+Package pdftex.def Info: img/exp1.png  used on input line 75.
+(pdftex.def)             Requested size: 342.98401pt x 172.54594pt.
+
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[31 <./img/keywords.png>]
+<img/exp1_mse.png, id=450, 472.76625pt x 286.06876pt>
+File: img/exp1_mse.png Graphic file (type png)
+<use img/exp1_mse.png>
+Package pdftex.def Info: img/exp1_mse.png  used on input line 82.
+(pdftex.def)             Requested size: 330.93411pt x 200.24675pt.
+<img/exp2.png, id=453, 577.15625pt x 286.57062pt>
+File: img/exp2.png Graphic file (type png)
+<use img/exp2.png>
+Package pdftex.def Info: img/exp2.png  used on input line 92.
+(pdftex.def)             Requested size: 346.29642pt x 171.9437pt.
+
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[32 <./img/exp1.png> <./img/exp1_mse.png>]
+<img/exp2_mse.png, id=460, 472.26437pt x 283.55937pt>
+File: img/exp2_mse.png Graphic file (type png)
+<use img/exp2_mse.png>
+Package pdftex.def Info: img/exp2_mse.png  used on input line 99.
+(pdftex.def)             Requested size: 330.5828pt x 198.49019pt.
+
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[33 <./img/exp2.png> <./img/exp2_mse.png>]
+<img/exp3.png, id=469, 574.64688pt x 286.06876pt>
+File: img/exp3.png Graphic file (type png)
+<use img/exp3.png>
+Package pdftex.def Info: img/exp3.png  used on input line 109.
+(pdftex.def)             Requested size: 344.79079pt x 171.64258pt.
+<img/exp3_mse.png, id=470, 472.26437pt x 286.06876pt>
+File: img/exp3_mse.png Graphic file (type png)
+<use img/exp3_mse.png>
+Package pdftex.def Info: img/exp3_mse.png  used on input line 116.
+(pdftex.def)             Requested size: 330.5828pt x 200.24675pt.
+
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[34 <./img/exp3.png> <./img/exp3_mse.png>]
+<img/exp4.png, id=478, 575.65062pt x 286.57062pt>
+File: img/exp4.png Graphic file (type png)
+<use img/exp4.png>
+Package pdftex.def Info: img/exp4.png  used on input line 126.
+(pdftex.def)             Requested size: 345.39304pt x 171.9437pt.
+<img/exp4_mse.png, id=479, 472.76625pt x 286.57062pt>
+File: img/exp4_mse.png Graphic file (type png)
+<use img/exp4_mse.png>
+Package pdftex.def Info: img/exp4_mse.png  used on input line 133.
+(pdftex.def)             Requested size: 330.93411pt x 200.59805pt.
+
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[35 <./img/exp4.png> <./img/exp4_mse.png>]
+<img/mses.png, id=488, 505.89pt x 365.365pt>
+File: img/mses.png Graphic file (type png)
+<use img/mses.png>
+Package pdftex.def Info: img/mses.png  used on input line 143.
+(pdftex.def)             Requested size: 354.12057pt x 255.75375pt.
+
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[36 <./img/mses.png>]
+<img/clusters.png, id=496, 553.06625pt x 302.12875pt>
+File: img/clusters.png Graphic file (type png)
+<use img/clusters.png>
+Package pdftex.def Info: img/clusters.png  used on input line 156.
+(pdftex.def)             Requested size: 387.14374pt x 211.48868pt.
+<img/silhouette.png, id=498, 390.45876pt x 266.9975pt>
+File: img/silhouette.png Graphic file (type png)
+<use img/silhouette.png>
+Package pdftex.def Info: img/silhouette.png  used on input line 174.
+(pdftex.def)             Requested size: 312.36742pt x 213.59827pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[37 <./img/clusters.png>]) (includes/chapter_4-conclusions.tex
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[38 <./img/silhouette.png>]
+chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--6
+
+ []
+
+)
+
+Package natbib Warning: Citation `orwell46' undefined on input line 30.
+
+
+Package natbib Warning: Citation `adair1997' undefined on input line 30.
+
+
+Package natbib Warning: Citation `eisenberg1992' undefined on input line 30.
+
+
+Package natbib Warning: Citation `gowers2004' undefined on input line 30.
+
+
+Package natbib Warning: Citation `Pfeiffer1998' undefined on input line 30.
+
+
+Package natbib Warning: Citation `Ritter2003' undefined on input line 30.
+
+
+Package natbib Warning: Citation `Strunk2000' undefined on input line 30.
+
+
+Package natbib Warning: Citation `Truss2003' undefined on input line 30.
+
+
+Package natbib Warning: Citation `vanemden1998' undefined on input line 30.
+
+
+Package natbib Warning: Citation `vanemden2001' undefined on input line 30.
+
+
+Package natbib Warning: Citation `vanemden1996' undefined on input line 30.
+
+
+Package natbib Warning: Citation `bailey2006' undefined on input line 30.
+
+
+Package natbib Warning: Citation `cone-and-foster-1993' undefined on input line
+ 30.
+
+
+Package natbib Warning: Citation `seliger1989' undefined on input line 30.
+
+
+Package natbib Warning: Citation `emacs-begin' undefined on input line 30.
+
+
+Package natbib Warning: Citation `handbook' undefined on input line 30.
+
+(thesis.bbl [39
+
+
+]
+chapter without number
+
+Overfull \hbox (22.98116pt too wide) in paragraph at lines 4--9
+\T1/LinuxLibertineT-TLF/m/n/10.95 https://www.researchgate.net/publication/3441
+77049_The_Role_of_Marketing_Research  
+ []
+
+
+Overfull \hbox (38.8586pt too wide) in paragraph at lines 47--52
+\T1/LinuxLibertineT-TLF/m/n/10.95 https://www.researchgate.net/publication/2634
+460_Similarity_Search_in_High_Dimensions  
+ []
+
+[40
+
+
+]
+Overfull \hbox (37.8402pt too wide) in paragraph at lines 72--79
+\T1/LinuxLibertineT-TLF/m/n/10.95 https://www.researchgate.net/publication/3255
+85229_Artificial_Intelligence_in_Cardiology.  
+ []
+
+[41])
+
+Package natbib Warning: There were undefined citations.
+
+
+Overfull \vbox (1.39674pt too high) has occurred while \output is active []
+
+
+[42] (thesis.aux)
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 32580 strings out of 478864
+ 643174 string characters out of 2844833
+ 1095449 words of memory out of 3000000
+ 49701 multiletter control sequences out of 15000+600000
+ 482629 words of font info for 76 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 113i,17n,120p,10633b,746s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/Dan Serbanoiu/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/liberti
+ne/lbtn_7grukw.enc}{C:/Users/Dan Serbanoiu/AppData/Local/Programs/MiKTeX/fonts/
+enc/dvips/libertine/lbtn_nh77jq.enc}{C:/Users/Dan Serbanoiu/AppData/Local/Progr
+ams/MiKTeX/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{C:/Users/Dan Serbanoiu/Ap
+pData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{C:/Users
+/Dan Serbanoiu/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_25t
+csq.enc}<C:/Users/Dan Serbanoiu/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/libertine/LinBiolinumTB.pfb><C:/Users/Dan Serbanoiu/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/Dan Serbanoiu/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/
+Users/Dan Serbanoiu/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/
+LinLibertineTI.pfb><C:/Users/Dan Serbanoiu/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Dan Serbanoiu/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Dan Serbanoiu/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/
+Dan Serbanoiu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi
+8.pfb><C:/Users/Dan Serbanoiu/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr10.pfb><C:/Users/Dan Serbanoiu/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Dan Serbanoiu/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Dan Serbanoiu/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/D
+an Serbanoiu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb><C:/Users/Dan Serbanoiu/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmsy6.pfb><C:/Users/Dan Serbanoiu/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Dan Serbanoiu/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on thesis.pdf (42 pages, 2046055 bytes).
+PDF statistics:
+ 744 PDF objects out of 1000 (max. 8388607)
+ 156 named destinations out of 1000 (max. 500000)
+ 431 words of extra memory for PDF output out of 10000 (max. 10000000)
+

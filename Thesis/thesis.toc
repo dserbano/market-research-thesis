@@ -1,0 +1,37 @@
+\contentsline {chapter}{Summary}{3}{Doc-Start}%
+\contentsline {subparagraph}{\nonumberline Keywords:}{3}{subparagraph*.3}%
+\contentsline {chapter}{Acknowledgments}{5}{section*.4}%
+\contentsline {chapter}{\numberline {1}Introduction}{11}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Problem Statement}{11}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Aims and Objectives}{12}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Life-cycle model}{13}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Risks Analysis}{14}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Planning}{15}{section.1.5}%
+\contentsline {chapter}{\numberline {2}Literature Review}{16}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Market Research Systems}{16}{section.2.1}%
+\contentsline {section}{\numberline {2.2}AI, ML and Big Data}{17}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Supervised learning}{17}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Unsupervised learning}{18}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Reinforcement learning}{18}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}ML workflow}{19}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Data aggregation}{19}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Data cleaning}{19}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Data processing}{20}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Data analysis}{20}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Evaluation}{20}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}Deploying to production}{20}{subsection.2.3.6}%
+\contentsline {section}{\numberline {2.4}Kernel recursive least-squares regression methods}{21}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Tools and Techniques}{23}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Aurelia}{23}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Django}{23}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Spark}{24}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}Docker}{25}{subsection.2.5.4}%
+\contentsline {section}{\numberline {2.6}Query optimization through hashing}{26}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Implementation}{27}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Functional Requirements}{27}{section.3.1}%
+\contentsline {section}{\numberline {3.2}System Architecture}{28}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Forecasting using KRLS methods}{30}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Clustering products using k-means}{37}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Future work}{38}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Conclusions}{39}{chapter.4}%
+\contentsline {chapter}{\nonumberline References}{40}{chapter*.33}%
